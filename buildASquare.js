@@ -3,6 +3,7 @@
 // The integer will be a whole number between 0 and 50.
 // Example: Integer = 3; I expect a 3x3 square back just like below as a string.
 
+
 function generateShape(int) {
     let result = '';
     for (let i = 0; i < int; i++) {
